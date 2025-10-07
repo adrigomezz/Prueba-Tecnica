@@ -1,0 +1,1 @@
+{/* archivo genérico sin función pero reutilizable en posibles futuras ampliaciones*/}
