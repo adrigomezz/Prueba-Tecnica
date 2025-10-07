@@ -75,12 +75,12 @@ El diseño sigue un poco la referencia visual del Figma proporcionado:
 
 Clonar el repositorio y ejecutar:
 
-1: git clone https://github.com/TU_USUARIO/property-list.git
-2: cd property-list
-3: npm install
-4: npm run dev
+- git clone https://github.com/TU_USUARIO/property-list.git
+- cd property-list
+- npm install
+- npm run dev
 
-5: Luego a continuación abre http://localhost:5173 para ver la aplicación.
+- Luego a continuación abre http://localhost:5173 para ver la aplicación.
 
 
 
