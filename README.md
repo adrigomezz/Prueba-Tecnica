@@ -14,25 +14,8 @@ Proyecto realizado como prueba técnica para Lion Capital Group, desarrollando u
 
 🧩 Estructura del proyecto:
 
-/src
- ├── /components
- │    ├── /ui            → Componentes reutilizables (Button, SearchBar, SortMenu, FilterPanel)
- │    └── /layout        → Componentes de estructura global (Header)
- │
- ├── /features/properties
- │    ├── PropertyList.jsx   → Muestra el listado principal con búsqueda y ordenación
- │    ├── PropertyCard.jsx   → Renderiza cada propiedad individual (imagen + info)
- │    └── PropertyModal.jsx  → Muestra los detalles completos de una propiedad en modal
- │
- ├── /data
- │    └── properties.json    → Datos ficticios de propiedades (10 registros)
- │
- ├── /utils, /hooks, /context  → Reservados para lógica adicional (no requeridos en esta prueba)
- │
- ├── App.jsx     → Componente raíz, gestiona estados globales y modales
- ├── index.css   → Carga principal de Tailwind
- └── main.jsx    → Punto de entrada de la aplicación
- 
+<img width="833" height="462" alt="image" src="https://github.com/user-attachments/assets/23d10cb6-d823-4fac-8d03-fd407d3541db" />
+
 
 🎨 Diseño y estilo:
 
